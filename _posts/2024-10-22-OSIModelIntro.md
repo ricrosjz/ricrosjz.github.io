@@ -1,6 +1,6 @@
 ---
 title: Tech Fundamentals - OSI Model Intro
-date: 2024-10-21
+date: 2024-10-21 20:45:00
 categories: [Fundamentals, OSI 7-Layer Networking Model]
 tags: [tech, fundamentals, networking]
 ---
